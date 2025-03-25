@@ -15,6 +15,7 @@ I will be working on different categories of challenges, including but not limit
 - Binary Exploitation
 - Reverse Engineering
 - Forensics
+- General Skills
 
 Each challenge will be explained in its own file, with a detailed write-up on the solution, thought process, and any tools I used.
 
